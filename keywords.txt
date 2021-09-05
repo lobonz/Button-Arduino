@@ -13,6 +13,9 @@ Button	KEYWORD
 setTimeLongPress    KEYWORD2
 getTimeLongPress    KEYWORD2
 checkPress  KEYWORD2
+wasPressed  KEYWORD2
+WasLongPressed  KEYWORD2
+wasReleased  KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
